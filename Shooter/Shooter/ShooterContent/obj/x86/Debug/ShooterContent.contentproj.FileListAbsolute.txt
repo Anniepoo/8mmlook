@@ -1,0 +1,2 @@
+C:\docs\diana\Shooter_Complete_Windows\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\docs\diana\Shooter_experiment\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
